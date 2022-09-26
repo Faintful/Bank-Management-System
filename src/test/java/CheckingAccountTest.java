@@ -3,10 +3,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CheckingAccountTest {
 
-//    Create a Bank Management System which has the following components:
-//    Person (which saves first, middle, and last name, age and maybe a "social security number")
-//    Checking Account (should have a current value, methods for taking and depositing money)
-//    Opening a Checking Account should only work via a Bank and must require a certain amount of initial deposit.
+    //    Create a Bank Management System which has the following components:
+    //    Person (which saves first, middle, and last name, age and maybe a "social security number")
+    //    Bank (which saves a list of customers and their checking accounts, maximum overdraw amount)
+    //    Checking Account (should have a current value, methods for taking and depositing money)
+    //    Opening a Checking Account should only work via a Bank and must require a certain amount of initial deposit.
 
     //TODO: Checking Account (should have a current value, methods for taking and depositing money)
 
