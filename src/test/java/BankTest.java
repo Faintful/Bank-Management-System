@@ -25,4 +25,5 @@ public class BankTest {
         //assert
         assertEquals(100, bank.getCustomer(0).getCheckingAccount().getBalance());
     }
+
 }

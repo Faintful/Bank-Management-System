@@ -13,4 +13,5 @@ public class CheckingAccount {
     public void withdraw(int amount) {
         balance -= amount;
     }
+
 }

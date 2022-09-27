@@ -23,4 +23,5 @@ public class Person {
     public CheckingAccount getCheckingAccount() {
         return checkingAccount;
     }
+
 }

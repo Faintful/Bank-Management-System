@@ -20,4 +20,5 @@ public class Bank {
     public void newCustomer(Person person) {
         customers.add(person);
     }
+
 }
